@@ -13,6 +13,7 @@
   "dependencies": {
     "@types/websocket": "^1.0.10",
     "typescript": "^5.7.3",
-    "websocket": "^1.0.35"
+    "websocket": "^1.0.35",
+    "zod": "^3.24.1"
   }
 }

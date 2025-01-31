@@ -21,7 +21,7 @@ export abstract class Store {
 
     }
 
-    addChat(roomId: string, chatId: string, name: string, userId: string, message: string){
+    addChat(roomId: string, name: string, userId: string, message: string){
 
     }
 
